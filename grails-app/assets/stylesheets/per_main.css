@@ -1,0 +1,38 @@
+.header {
+    background-color: #ffffff;
+}
+.div-login {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    margin-right: 0px;
+}
+.show-login {
+    float: right;
+    margin: 1%;
+    margin-right: 3%;
+}
+#logo {
+    float: left;
+    margin: 1%;
+    margin-left: 3%;
+}
+#menu-item {
+    background-color: #FFFFFF;
+
+}
+#menu-item .layui-nav-item a {
+    color: #080808;
+}
+
+#menu-item .layui-nav-item a:hover{
+    color: #080808;
+}
+
+#search-input {
+    float: right;
+}
+.footer {
+    background-color: #ffffff;
+}
+

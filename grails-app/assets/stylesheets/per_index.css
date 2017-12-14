@@ -1,0 +1,20 @@
+.show-content {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.content-item {
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding-right: 2%;
+}
+
+.content-img {
+    padding: 2%;
+}
+
+.content-article {
+    padding: 2%;
+}
